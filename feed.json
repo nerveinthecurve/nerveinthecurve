@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "nerveinthecurve",
+    "description": "",
+    "home_page_url": "https://nerveinthecurve",
+    "feed_url": "https://nerveinthecurve/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "nerveinthecurve"
+    },
+    "items": [
+        {
+            "id": "https://nerveinthecurve/beep-boop.html",
+            "url": "https://nerveinthecurve/beep-boop.html",
+            "title": "beep boop",
+            "author": {
+                "name": "nerveinthecurve"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-26T21:43:20-05:00",
+            "date_modified": "2025-12-26T21:43:20-05:00"
+        }
+    ]
+}

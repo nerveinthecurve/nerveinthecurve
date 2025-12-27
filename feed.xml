@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>nerveinthecurve</title>
+    <link href="https://nerveinthecurve/feed.xml" rel="self" />
+    <link href="https://nerveinthecurve" />
+    <updated>2025-12-26T21:43:20-05:00</updated>
+    <author>
+        <name>nerveinthecurve</name>
+    </author>
+    <id>https://nerveinthecurve</id>
+
+    <entry>
+        <title>beep boop</title>
+        <author>
+            <name>nerveinthecurve</name>
+        </author>
+        <link href="https://nerveinthecurve/beep-boop.html"/>
+        <id>https://nerveinthecurve/beep-boop.html</id>
+
+        <updated>2025-12-26T21:43:20-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
